@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlo</h1>
 <h3 align="center">A passionate soon-to-be Full Stack Developer From the Philippines.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=actuallycasealop" alt="actuallycasealop" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?actuallycasealop=ryo-ma&theme=monokai" alt="actuallycasealop" /></a> </p>
 
 - 🔭 I’m currently working on [100 Days of python by Dr. Angela Wu](https://github.com/ActuallyCasealop/100-days-of-python)
 
