@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=actuallycasealop&label=Profile%20view&color=0e75b6&style=flat" alt="actuallycasealop" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=actuallycasealop" alt="actuallycasealop" /></a> </p>
-
 - 🔭 I’m currently working on [100 Days of Python](https://github.com/ActuallyCasealop/100-days-of-python)
 
 - 🌱 I’m currently learning **The Odins Project (OTP) and various courses on freecodecamp.org**
